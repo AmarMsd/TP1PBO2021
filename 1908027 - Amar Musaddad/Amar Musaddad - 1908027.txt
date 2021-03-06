@@ -1,0 +1,20 @@
+/*Saya Amar Musaddad - 1908027 mengerjakan TP1 dalam 
+mata kuliah PBO untuk keberkahan Nya maka 
+saya tidak melakukan kecurangan seperti yang telah 
+di-spesifikasika. Aamiin. */
+
+Kesulitan : 
+1. Pas pertama menggunakan gambar cukup sulit karena tidak tau cara untuk insert image nya
+2. Kurang mengetahui fitur yang ada di VsCode
+3. Kurang mengetahui Key Bind di Vscode
+
+Hal Baru : 
+Jadi mengatahui Toolbox dan fungsi nya
+
+Fitur : 
+1. Button
+2. Label
+3 Flowlayout Panel
+4. Combo box
+5. Panel
+6. Panel + Background Image
